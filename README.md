@@ -1,3 +1,5 @@
+> Forked from [typora-cobalt-theme](https://github.com/elitistsnob/typora-cobalt-theme) and add some custom config.
+
 # Cobalt theme for Typora
 Created by [Kent Pribbernow](https://www.github.com/elitistsnob)
 
