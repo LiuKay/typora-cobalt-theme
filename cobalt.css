@@ -190,6 +190,15 @@ h6 {
     content: 'H6';
 }
 
+::-webkit-scrollbar-thumb {
+    background: rgba(118, 115, 115, 0.44);
+    background-clip: padding-box;
+}
+
+#md-resize-grid{
+    background-color: #13110e
+}
+
 h1:hover a.anchor,
 h2:hover a.anchor,
 h3:hover a.anchor,
